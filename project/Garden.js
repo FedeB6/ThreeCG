@@ -72,7 +72,7 @@ export class Garden{
 
     /**
      * Adds a plant to the garden
-     * @param {String} planting string representing the type of crop that will be planted (either Wheat or Flowers)
+     * @param {String} planting string representing the type of crop that will be planted  (either Wheat or Flowers)
      * @returns true or false depending on wether the crop is added successfully/unsuccessfully
      */
     plant(planting){
